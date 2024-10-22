@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/harryabiona/github-classroom/Harper-College-Vandrevala-Classrooms/hi-hi-Harry-ab",
+      "program": "/Users/harryabiona/github-classroom/Harper-College-Vandrevala-Classrooms/hi-hi-Harry-ab/build/Debug/outDebug"
+    }
+  ]
+}
